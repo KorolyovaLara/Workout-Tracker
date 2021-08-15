@@ -1,6 +1,6 @@
-![Header](./public/assets/images/banner.png)
+![Header](./public/images/banner.png)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)]()
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://my-workout-tracker-app.herokuapp.com/)
 
 [![Github license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/KorolyovaLara/Workout-Tracker/blob/main/LICENSE)
 
@@ -25,10 +25,11 @@
 </details>
 
 ## Description
-
-
+**Workout Tracker** allows users to create, view and track daily workouts.
+The user is able to track the name, type, weight, sets, reps and duration of resistance exercises and cardio exercises show the distance traveled in miles.
 ## Live URL
 
+https://my-workout-tracker-app.herokuapp.com/
 
 ## Features
 
@@ -36,8 +37,6 @@
 - Node.js
 - Express.js
 - MongoDB
-- IndexedDB
-- PWA (Progressive Web Application)
 - npm
 
 ## Technical Part
@@ -46,7 +45,9 @@
 
 The screenshots below show the website previews:
 
-![Home Page](./public/assets/images/preview.png)
+![Home Page](./public/images/preview1.png)
+![Exercises Page](./public/images/preview2.png)
+![Stats Page](./public/images/preview3.png)
 
 ### _Installation_
 
@@ -88,7 +89,7 @@ Licensed under the [MIT](https://github.com/KorolyovaLara/Workout-Tracker/blob/m
 
 Quote that recently inspired me:
 
-> Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. -_Samuel Beckett_
+> No excuses. Just do the work. -_Shalane Flanagan_
 
 ---
 
